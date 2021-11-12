@@ -38,7 +38,7 @@ username/password
 
 `sender_0/logout0`
 
-sender_1/logout1`
+`sender_1/logout1`
 
 `sender_2/logout2`
 
